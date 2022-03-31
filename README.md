@@ -1,22 +1,12 @@
-<h2> Hey there! I'm Christopher Lee.</h2>
+# Hey there! I'm Christopher Lee.
 
-<h3> &nbsp;About Me 👨🏻‍💻 </h3>
+## About Me 👨🏻‍💻
 
 -  &nbsp; Studying Computer Science at University of California, Berkeley.
 -  &nbsp; Learning more about Data Structures, Algorithms and Artificial Intelligence.
 -  &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 -  &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
-<br/>
-
-<a href="https://github.com/leechristopher722">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leechristopher722&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leechristopher722&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leechristopher722)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
