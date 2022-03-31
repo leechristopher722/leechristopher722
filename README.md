@@ -5,7 +5,7 @@
 -  &nbsp; Studying Computer Science at University of California, Berkeley.
 -  &nbsp; Learning more about Data Structures, Algorithms and Artificial Intelligence.
 -  &nbsp; Exploring new technologies and developing software solutions and quick hacks.
--  &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+-  &nbsp; Love to watch and play baseball as a hobby.
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
