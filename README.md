@@ -1,6 +1,6 @@
-# Hey there! I'm Christopher Lee.
+<h1> Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
-## About Me 👨🏻‍💻
+<h3> I am Christopher Lee 👨🏻‍💻 </h3>
 
 -  &nbsp; Studying Computer Science at University of California, Berkeley.
 -  &nbsp; Learning more about Data Structures, Algorithms and Artificial Intelligence.
