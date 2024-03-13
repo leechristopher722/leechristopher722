@@ -12,6 +12,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/christopher-lee-0722"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Christopher Lee-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:leechristopher722@berkeley.edu"><img alt="Email" src="https://img.shields.io/badge/Email-leechristopher722@berkeley.edu-blue?style=flat-square&logo=gmail"></a>
-<a href="leechristopher722.github.io"><img alt="Email" src="https://img.shields.io/badge/Blog-ChristopherLee-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.leechristopher722.github.io"><img alt="Email" src="https://img.shields.io/badge/Blog-ChristopherLee-blue?style=flat-square&logo=gmail"></a>
 </p>
 
