@@ -3,7 +3,7 @@
 <h3> I am Christopher Lee 👨🏻‍💻 </h3>
 
 -  &nbsp; Studying Computer Science at University of California, Berkeley.
--  &nbsp; Learning more about Data Structures, Algorithms and Artificial Intelligence.
+-  &nbsp; Learning more about Data Structures, Algorithms and Backend Web Dev.
 -  &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
 
