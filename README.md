@@ -9,7 +9,7 @@
 ✉️ &nbsp;You can reach me at leechristopher722@berkeley.edu! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Blog](https://leechristopher722.github.io) for more details about my interest.
 
-<img alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="350"/>
+<img alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="320"/>
 
 ### 🛠 &nbsp;Tech Stack
 
