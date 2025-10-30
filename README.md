@@ -6,7 +6,7 @@
 🎓 &nbsp;I'm currently studying Computer Science at UC Berkeley.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Backend Infrastructure, and Distributed Systems.\
 💬 &nbsp;Feel free to reach out to me for interesting discussions or collaboration opportunities.\
-✉️ &nbsp;You can reach me at leechristopher722@berkeley.edu! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can reach me at leechristopher722@berkeley.edu! I'll respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Blog](https://leechristopher722.github.io) for more details about my interest.
 
 <img alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="320"/>
@@ -40,7 +40,7 @@
 
 <p align="center">
 <a href="https://leechristopher722.github.io/Christopher_Lee_Resume.pdf"><img src="https://img.shields.io/badge/-Resume-FF5722?style=flat&logo=Google-Drive&logoColor=white"/></a>
-<a href="https://linkedin.com/in/christopher-lee-0722"><img src="https://img.shields.io/badge/-Christopher%20Lee-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/christopher-lee-0722"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://leechristopher722.github.io"><img src="https://img.shields.io/badge/-Portfolio-0077B5?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="mailto:leechristopher722@berkeley.edu"><img src="https://img.shields.io/badge/-leechristopher722@berkeley.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/leechristopher722"><img src="https://img.shields.io/badge/-@leechristopher722-05122A?style=flat&logo=Github&logoColor=white"/></a>
