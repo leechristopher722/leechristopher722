@@ -32,7 +32,8 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy&logoColor=013243)&nbsp;
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=scikit-learn)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellijidea&logoColor=000000)\
 ![macOS](https://img.shields.io/badge/-macOS-05122A?style=flat&logo=apple&logoColor=999999)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=FCC624)
 
@@ -40,7 +41,7 @@
 
 <p align="center">
 <a href="https://leechristopher722.github.io/Christopher_Lee_Resume.pdf"><img src="https://img.shields.io/badge/-Resume-FF5722?style=flat&logo=Google-Drive&logoColor=white"/></a>
-<a href="https://linkedin.com/in/christopher-lee-0722"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/christopher-lee-0722"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="https://leechristopher722.github.io"><img src="https://img.shields.io/badge/-Portfolio-0077B5?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="mailto:leechristopher722@berkeley.edu"><img src="https://img.shields.io/badge/-leechristopher722@berkeley.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/leechristopher722"><img src="https://img.shields.io/badge/-@leechristopher722-05122A?style=flat&logo=Github&logoColor=white"/></a>
